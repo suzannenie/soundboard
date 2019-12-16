@@ -1,6 +1,4 @@
-title: Automated Soundboard
-description: Suzanne Nie 2019
-## Project: Automated Soundboard
+## Project
 Check out a demo video
 [here](https://www.youtube.com/watch?v=b5DsLKq7Ii8).
 
